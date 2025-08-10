@@ -1,6 +1,6 @@
 Student: Hojae Lee
 
-Email: <iceanon1@khu.ac.kr>
+Email: <iceanon1@gmail.com>
 
 **Replication Report of**
 
@@ -88,3 +88,4 @@ During this replication study of original paper, several significant challenges 
 
 
 This replication study rigorously applied methodologies to address long-tailed distributions in medical image classification, validating the effectiveness of advanced techniques such as class re-balancing and sophisticated loss functions. It demonstrated the Decoupling-cRT method's effectiveness in managing class distribution skewness, despite some discrepancies in head accuracy, confirming the robustness and applicability of the original methods. The study highlighted challenges in accessing restricted datasets like MIMIC-CXR and managing computational resources, which necessitated adjustments like reducing training epochs and modifying batch sizes to fit resource limitations. These insights are invaluable for demonstrating that long-tailed learning techniques can effectively address real-world medical datasets and highlighted the need for more accessible medical imaging datasets to broaden research participation. Future research could explore adaptable training protocols and hybrid models that integrate various strategies for robust classification across skewed distributions. This study not only underscores the importance of tailored approaches for handling class imbalances but also offers a roadmap for navigating the complexities of applying machine learning in regulated medical fields, providing guidance for future research in challenging scenarios.
+
